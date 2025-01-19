@@ -5,12 +5,15 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-tusharsinghrawat.delhi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tusharsinghrawat.delhi@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-TUSHAR%20SINGH-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/singhxtushar/ "Connect on LinkedIn")
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue)](https://drive.google.com/file/d/160tLTDCg44jnjVmp5QcHES08q1whYy_l/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Singh-blue)](https://www.linkedin.com/in/singhxtushar/ "Connect on LinkedIn")
+
+
   
 </div>
 
 ```csharp
-My Profile v1.0
+My Profile v1.0  : <a href="https://drive.google.com/file/d/160tLTDCg44jnjVmp5QcHES08q1whYy_l/view?usp=sharing">RESUME</a>
 -------------------------------
 Username: TUSHAR SINGH
 Who_Am_I: Machine Learning Engineer, Python Developer, MERN DEV, Fitness Enthusiast
