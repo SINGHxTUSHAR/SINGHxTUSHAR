@@ -1,6 +1,6 @@
 <h3> <p align="center"> こんにちは, I'm TUSHAR SINGH👋🏼 </p> </h3>
 
-<h4> <p align="center"> ML Developer 👩‍💻 | Former ML Intern @ Febi.AI | Former Undergrade Research Assistant Intern @ F-13 Technology | OpenSource DEV @ BackDrop Build V5🚀.</p> </h4>
+<h4> <p align="center"> ML Developer 👩‍💻 | Former ML Intern @ Febi.AI | OpenSource DEV @ BackDrop Build V5🚀.</p> </h4>
 
 <div align="center">
 
